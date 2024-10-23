@@ -1,0 +1,9 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "attachmentFolderPath": "private",
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
+}
